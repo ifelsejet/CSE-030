@@ -1,0 +1,12 @@
+Stack
+- limited in size (8MB?)
+- managed automatically
+- stores all local variables of functions
+- Statically allocated
+Heap
+- Dynamically allocated
+- limited by the amount of RAM
+- Managed manually
+- Used to store large amounts of data
+______
+- Resizing an array takes a long time, knowing the size beforehand is a LOT faster than having to resize an array
